@@ -1,3 +1,9 @@
+## Run React App 
+```
+cd velive
+pnpm start
+```
+
 <p align="center">
     <br />
     <a href="https://thirdweb.com">
