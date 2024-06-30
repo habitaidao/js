@@ -1,6 +1,7 @@
 ## Run React App 
 ```
 cd velive
+pnpm install
 pnpm start
 ```
 
